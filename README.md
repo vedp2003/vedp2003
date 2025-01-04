@@ -28,7 +28,7 @@ My Github Repositories has a subset of different projects I have implemented and
 - **Email**: vedp2003@gmail.com
 - **Phone**: 732-374-3298
 - **LinkedIn**: [linkedin.com/in/vedp2003](https://linkedin.com/in/vedp2003)
-- 
+  
 ---
 
 Thanks for visiting my GitHub! Let’s connect and create something amazing together!
